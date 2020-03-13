@@ -20,20 +20,21 @@
 
 # Índice
 
-- [Mecânicas de jogo](#Mecânicas-de-jogo)
+- [Mecânicas de jogo](#mecânicas-de-jogo)
 - [Elementos de edição de níveis](#elementos-de-edição-de-níveis)
-- [Principios](#principios)
+- [Principios](#princípios)
 - [Links](#links)
-- [Níveis Desenhados](#Níveis-desenahdos)
-- [Links dos Níveis Desenhados](#Links-dos-Níveis-Desenhados)
+- [Níveis Desenhados](#níveis-desenhados)
+- [Links dos Níveis Desenhados](#links-dos-níveis-desenhados)
 
 <div style="page-break-after: always;"></div>
 
 # Mecânicas de jogo
 
-<p align="justify">
 A personagem do jogo consegue mover-se para a esquerda e direita, agachar-se, saltar e agarrar-se à parede, podendo escalá-la ou descer como se estivesse a fazer rapel. No entanto, a mecânica que mais se destaca é o _dash_, em que o personagem é empurrado por uma força invisível na direção em que está a apontar. Esta última mecânica só pode ser efetuada uma vez enquanto não voltar a tocar no chão, agarrar-se à parede ou quebrar um _dash booster_.
-</p>
+<br/>
+<br/>
+<br/>
 
 # Elementos de edição de níveis
 
@@ -62,6 +63,16 @@ Existem vários elementos que nos permitem editar um nível de _Celeste Editor_,
 2. Aprendizagem rápida das diferentes mecânicas;
 3. Evitar repetição;
 4. O jogo deve causar uma sensação de conquista.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Links
 - [Primeiro Nível;](https://drive.google.com/open?id=1sXfrWGV29oXeHLiWB2_mYLUbcn9kA0hd)
@@ -75,25 +86,25 @@ Existem vários elementos que nos permitem editar um nível de _Celeste Editor_,
 # Níveis desenhados
 
 - Nível 1:
-
 ![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_01.jpg)
 
 - Nível 2:
-
 ![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_02.jpg)
 
 
 - Nível 3:
-
 ![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_03.jpg)
 
 - Nível 4:
-
 ![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_04.jpg)
 
 - Nível 5:
-
 ![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_05.jpg)
+
+
+<br/>
+<br/>
+<br/>
 
 # Links dos níveis desenhados
 
