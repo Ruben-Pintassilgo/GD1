@@ -24,6 +24,8 @@
 - [Elementos de edição de níveis](#elementos-de-edição-de-níveis)
 - [Principios](#principios)
 - [Links](#links)
+- [Níveis Desenhados](#Níveis-desenahdos)
+- [Links dos Níveis Desenhados](#Links-dos-Níveis-Desenhados)
 
 <div style="page-break-after: always;"></div>
 
@@ -52,21 +54,51 @@ Existem vários elementos que nos permitem editar um nível de _Celeste Editor_,
   - trampolin: faz o personagem saltar mais alto;
   - _Dash Booster_: permite o personagem voltar a efetuar um dash mesmo que ainda esteja no meio do ar;
 
+<div style="page-break-after: always;"></div>
+
 # Princípios
 
 1. Dificuldade crescente;
 2. Aprendizagem rápida das diferentes mecânicas;
-3. Existir várias formas de alcançar o mesmo objetivo;
+3. Evitar repetição;
 4. O jogo deve causar uma sensação de conquista.
+
+# Links
+- [Primeiro Nível;](https://drive.google.com/open?id=1sXfrWGV29oXeHLiWB2_mYLUbcn9kA0hd)
+- [Segundo Nível;](https://drive.google.com/open?id=1S9zVcZMS0bGdaFxAyj5S6cbmV6CZrf1J)
+- [Terceiro Nível;](https://drive.google.com/open?id=1Op_Jx7ju2kOTIfshMobAAoFPs7wVummZ)
+- [Quarto Nível;](https://drive.google.com/open?id=1e2i1IU7KIxrf0xMpzZ0aMANvRQiP5fc1)
+- [Quinto Nível;](https://drive.google.com/open?id=1L2KeZdLwScMJiXLMtXT37fK2vc9wDQ0u)
+
+<div style="page-break-after: always;"></div>
 
 # Níveis desenhados
 
+- Nível 1:
 
-# Links
-- [First Level;](https://drive.google.com/open?id=1sXfrWGV29oXeHLiWB2_mYLUbcn9kA0hd)
-- [Second Level;](https://drive.google.com/open?id=1S9zVcZMS0bGdaFxAyj5S6cbmV6CZrf1J)
-- [Third Level;](https://drive.google.com/open?id=1Op_Jx7ju2kOTIfshMobAAoFPs7wVummZ)
-- [Forth Level;](https://drive.google.com/open?id=1e2i1IU7KIxrf0xMpzZ0aMANvRQiP5fc1)
-- [Fifth Level;](https://drive.google.com/open?id=1L2KeZdLwScMJiXLMtXT37fK2vc9wDQ0u)
+![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_01.jpg)
+
+- Nível 2:
+
+![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_02.jpg)
+
+
+- Nível 3:
+
+![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_03.jpg)
+
+- Nível 4:
+
+![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_04.jpg)
+
+- Nível 5:
+
+![alt text](https://raw.githubusercontent.com/Ruben-Pintassilgo/GD1/master/Session_2/Sketch_Level_05.jpg)
 
 # Links dos níveis desenhados
+
+- [Primeiro Nível;](https://drive.google.com/open?id=1TUXd9hkTYVwKuuNeN2Ea6V4xdyXlv9CM)
+- [Segundo Nível;](https://drive.google.com/open?id=15U8CXbT9T6bZ7cDQDjQrrI3vVwEghZdu)
+- [Terceiro Nível;](https://drive.google.com/open?id=1AvR7LYFeXoQwOfG_e8oVwM58meNd1Ceu)
+- [Quarto Nível;](https://drive.google.com/open?id=1AIiRD7tFFfSgohdmKp7jCEdwWsNIFaoa)
+- [Quinto Nível;](https://drive.google.com/open?id=1jxh-5W9fYos2wpyU_09D8yrtullT5HGL)
